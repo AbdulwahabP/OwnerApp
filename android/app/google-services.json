@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433419976876",
+    "firebase_url": "https://devowner-fcc36.firebaseio.com",
+    "project_id": "devowner-fcc36",
+    "storage_bucket": "devowner-fcc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433419976876:android:6ba0617bba719e4a2b9f09",
+        "android_client_info": {
+          "package_name": "com.wahab.ownerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433419976876-0nufgqjd5eo5h6rclga47a3gu98123i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Qpl0dIyq7-61h2NOy03_ACXnzQTW7r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433419976876-0nufgqjd5eo5h6rclga47a3gu98123i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
